@@ -1,4 +1,3 @@
-```markdown
 # GlobeMates
 
 GlobeMates is a platform designed to connect international students, fostering a global community for sharing experiences, providing support, and building meaningful connections on the educational journey.
